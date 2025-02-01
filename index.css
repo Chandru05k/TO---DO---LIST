@@ -8,6 +8,9 @@ html,body{
     height:100%;
     width:100%;
 }
+#total{
+    position:relative;
+    left:50px;
 img{
     height:28px;
 
